@@ -1,5 +1,2 @@
 # Stock-Market-Prediction
-This is my first capstone project for Springboard.
-
-In this project, I am planning to implement different data mining techniques for determining the future values 
-of a company stock and evaluate performance of each algorithm.
+This is my first capstone project for Springboard. In this project, I am planning to implement different data mining techniques and analytical analysis methods such as Artificial Neural Network (ANN), Recurrent Neural Network (RNN), Time Delay Neural Network (TDNN), Exponential Moving Average (EMA) and Random Forests Regression for determining the future values of a company stock and evaluate performance of each algorithm.
